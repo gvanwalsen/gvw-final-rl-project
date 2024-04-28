@@ -1,5 +1,8 @@
 # Final Reinforcement Learning Project
-This repository presents the code for my final Reinforcement Learning project, Utilization of Deep Q Learning for Residential HVAC Temperature Control. This code is written in MATLAB, and utilizes Simulink, Simscape, the MATLAB Reinforcement Learning Toolbox, along with other standard toolboxes. 
+This repository presents the code for my final Reinforcement Learning project, Utilization of Deep Q Learning for Residential HVAC Temperature Control. 
+The final paper that goes along with this report, which details background research, explanation of the code arrangement and intended model outputs, can be found here: 
+
+This code is written in MATLAB, and utilizes Simulink, Simscape, the MATLAB Reinforcement Learning Toolbox, along with other standard toolboxes. 
 The project is primarily based on two different publically available MATLAB example projects: "House Heating System" and "Train DQN Agent with LSTM Network to Control House Heating System".
 
 Though much of the code is assembled to follow these examples, minor edits were made for relevance to this final project and the associated requirements. 
